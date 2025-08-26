@@ -1,7 +1,6 @@
 #  pizza - program
 print("🍕 Welcome to Python Pizza Deliveries!")
 
-# Get inputs and make them lowercase for easier checking
 size = input("What size pizza do you want? S, M or L: ").upper()
 pepperoni = input("Do you want pepperoni on your pizza? Y or N: ").upper()
 extra_cheese = input("Do you want extra cheese? Y or N: ").upper()
